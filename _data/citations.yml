@@ -1,0 +1,2 @@
+# Cached citation counts for entries in _bibliography/papers.bib, keyed by BibTeX cite key.
+# Populated by bin/update_scholar_citations.py once there are real publications to track.

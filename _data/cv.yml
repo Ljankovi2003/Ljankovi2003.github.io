@@ -1,0 +1,110 @@
+cv:
+  name: Leo Jankovic
+  label: Computer Science & Biology Student
+  email: ljankovi@caltech.edu
+  location: Pasadena, CA
+  image: ""
+  summary: Computer Science and Biology student at Caltech working across machine learning, computational biology, and finance.
+
+  social_networks:
+    - network: LinkedIn
+      username: leo-jankovic-8375b1222
+    - network: GitHub
+      username: Ljankovi2003
+
+  address:
+    city: Pasadena
+    region: California
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: California Institute of Technology
+        location: Pasadena, CA, United States
+        url: https://www.caltech.edu/
+        area: Computer Science and Biology
+        studyType: Bachelor of Science
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - Coursework and research anchored in machine learning and computational biology, exploring the intersection between algorithms and biological systems.
+
+    Experience:
+      - company: Silicon Valley Fellowship
+        position: Fellow
+        location: San Francisco, CA
+        start_date: 2025-03
+        end_date: 2025-03
+        summary: >
+          Awarded the Silicon Valley Fellowship after a rigorous selection process — an exclusive program connecting emerging innovators with influential figures in the tech industry. The fellowship included a week in San Francisco engaging with top executives and thought leaders from companies such as Apple, Google, and Meta, including a meeting with Apple's CTO, providing invaluable insight into cutting-edge technologies, strategic innovation, and the dynamics of the tech ecosystem.
+
+      - company: Mayo Lab, Caltech
+        position: Researcher
+        location: Pasadena, CA
+        start_date: 2025-01
+        end_date: Present
+        summary: >
+          Joined the Mayo Lab at Caltech, led by Steve Mayo — distinguished scientist, company founder, and member of Merck's board — collaborating with a team of researchers on cutting-edge projects. Work focuses on improving the effectiveness of mRNA vaccines through the application of directed evolution and machine learning.
+
+      - company: Edge City
+        position: Fellow
+        location: Chiang Mai, Thailand
+        start_date: 2024-09
+        end_date: 2024-10
+        summary: >
+          Selected as a Fellow at Edge City in Chiang Mai, Thailand, for a month-long advanced AI workshop, engaging with top industry experts and thought leaders in artificial intelligence. Highlights included exclusive 1-on-1 mentoring sessions with figures such as Vitalik Buterin and Kathy Tie, offering insight into emerging innovations, strategic thinking, and the future direction of AI. Secured funding during the fellowship to support future research initiatives.
+
+      - company: Charpentier Lab, Max Planck Institute for Infection Biology
+        position: Research Intern
+        location: Berlin, Germany
+        start_date: 2024-06
+        end_date: 2024-10
+        summary: >
+          Research Intern under Nobel Prize laureate Emmanuelle Charpentier, co-discoverer of CRISPR and co-founder of CRISPR Therapeutics, at the Max Planck Institute for Infection Biology. Work focused on CRISPR, proteases, glycopeptide sequencing, and mass spectrometry. Developed a novel methodology for high-throughput screening of multiple samples in mass spectrometry using Tandem Mass Tag (TMT) labeling, improving both efficiency and data accuracy. Gained hands-on experience with advanced proteomics sequencing software; the work culminated in a research paper currently in preparation.
+        highlights:
+          - Developed a TMT-labeling-based high-throughput mass spectrometry screening method for protein identification and quantification.
+
+      - company: Oraclum Capital
+        position: Hedge Fund Intern
+        location: New York, NY
+        start_date: 2024-04
+        end_date: 2024-08
+        summary: >
+          Interned at Oraclum Capital, a niche New York hedge fund with under $100M in assets under management, gaining hands-on experience across a variety of projects. Developed a momentum-based trading strategy that achieved a 90% win rate and a 26% annual return, built on extensive data analysis leveraging traditional and alternative data sources. Scraped and processed over 10,000 SEC filings, 2,000 analyst reports, and 20 years of FOMC meeting transcripts, and managed minute-level option and stock data to refine trading models. Applied NLP to extract sentiment from Federal Reserve Chair speeches and machine learning to predict pricing trends.
+        highlights:
+          - Momentum-based trading strategy — 90% win rate, 26% annual return.
+          - Processed 10,000+ SEC filings, 2,000+ analyst reports, and 20 years of FOMC transcripts.
+
+      - company: Dikic/Bhaskara Lab, Goethe University Frankfurt
+        position: Research Intern
+        location: Frankfurt, Germany
+        start_date: 2024-06
+        end_date: 2024-08
+        summary: >
+          Research Intern in the Dikic/Bhaskara Lab, exploring cellular biology through computational techniques. Modeled protein complexes involved in autophagy and ubiquitination pathways using molecular dynamics simulations, analyzing dynamic protein-protein interactions to unravel the molecular mechanisms underlying these cellular processes. Investigated how protein structures influence membrane bilayer lipid asymmetry using GROMACS, studying conformational changes and binding interfaces within protein complexes. The work culminated in a co-authored paper on autophagy and ubiquitination.
+
+      - company: Ph11, Caltech
+        position: Fellow
+        location: Pasadena, CA
+        start_date: 2022
+        end_date: 2022
+        summary: >
+          Selected as one of six Caltech freshmen for Ph11, a class taught by physicist Dave Stevenson (who wrote the proposal for the Juno mission) and Rob Phillips, exploring open-ended questions in physics and biology. A recurring theme was dimensional analysis — estimating quantities such as the biomass of whale poop or the number of toilets needed for a presidential inauguration without looking anything up. Through the professors' connections, had the opportunity to speak with Nobel Prize-winning physicist and former Secretary of Energy Steve Chu about topics including atomic clocks and government loans to Tesla, Solyndra, and other green-energy companies.
+
+      - company: High School Research
+        position: Researcher
+        location: ""
+        start_date: 2022-01
+        end_date: 2022-06
+        summary: >
+          Conducted in-depth research on the characteristics of a symbiotic culture of bacteria and yeast, investigating the feasibility of using bacterial cultures as a cost-effective alternative for water decontamination. Collaborated with peers to co-author a research paper detailing the findings, gaining hands-on experience in experimental biology, data analysis, and scientific writing.
+
+    Skills:
+      - name: Machine Learning & AI
+        keywords: "Python, PyTorch, TensorFlow, scikit-learn, Keras, NLP"
+
+      - name: Computational Biology
+        keywords: "Molecular dynamics (GROMACS), mass spectrometry & proteomics, CRISPR, directed evolution"
+
+      - name: Software Engineering
+        keywords: "JavaScript, TypeScript, React, Next.js, Django, Solidity, C, C++"
