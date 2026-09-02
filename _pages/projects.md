@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A selection of things I've built, from machine learning to biotech to blockchain.
-nav: true
+nav: false
 nav_order: 1
 display_categories: [engineering, finance, biotech, blockchain]
 horizontal: false
