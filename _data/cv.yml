@@ -1,10 +1,10 @@
 cv:
   name: Leo Jankovic
-  label: Computer Science & Biology Student
-  email: ljankovi@caltech.edu
+  label: Computer Science Student, Caltech
+  email: leovjan@gmail.com
   location: Pasadena, CA
   image: ""
-  summary: Computer Science and Biology student at Caltech working across machine learning, computational biology, and finance.
+  summary: Computer Science student at Caltech (Aerospace minor) working across quantitative finance, AI, and computational biology.
 
   social_networks:
     - network: LinkedIn
@@ -22,89 +22,196 @@ cv:
       - institution: California Institute of Technology
         location: Pasadena, CA, United States
         url: https://www.caltech.edu/
-        area: Computer Science and Biology
+        area: Computer Science, Minor in Aerospace
         studyType: Bachelor of Science
-        start_date: 2022
-        end_date: Present
+        score: "3.9/4.0"
+        start_date: 2023
+        end_date: 2027
         highlights:
-          - Coursework and research anchored in machine learning and computational biology, exploring the intersection between algorithms and biological systems.
+          - "Relevant coursework: Introduction to Economics, Introduction to Finance, Introduction to Machine Learning, Hedge Funds, Investments, Advanced Topics in Machine Learning."
+          - "Clubs and labs: Swim Team, Water Polo, Caltech Quant Club, Entrepreneurship Club, Student Investment Fund."
+
+      - institution: Gimnazija Andrije Mohorovičića
+        location: Rijeka, Croatia
+        area: General studies
+        studyType: High School Diploma
+        score: "4.9/5.0"
+        start_date: 2018
+        end_date: 2022
 
     Experience:
-      - company: Silicon Valley Fellowship
-        position: Fellow
-        location: San Francisco, CA
-        start_date: 2025-03
-        end_date: 2025-03
-        summary: >
-          Awarded the Silicon Valley Fellowship after a rigorous selection process — an exclusive program connecting emerging innovators with influential figures in the tech industry. The fellowship included a week in San Francisco engaging with top executives and thought leaders from companies such as Apple, Google, and Meta, including a meeting with Apple's CTO, providing invaluable insight into cutting-edge technologies, strategic innovation, and the dynamics of the tech ecosystem.
+      - company: Mercuria
+        position: Investment Analyst
+        location: Geneva, Switzerland
+        start_date: 2027-04
+        end_date: 2027-04
 
-      - company: Mayo Lab, Caltech
+      - company: AllyAI
+        position: Forward Deployed Engineer
+        location: New York, NY
+        start_date: 2026-08
+        end_date: Present
+        highlights:
+          - Partnered with enterprise customers generating over $1B in annual revenue to deploy customized AI solutions.
+          - Built and optimized AI workflows to automate business processes and improve operational efficiency.
+          - Collaborated with customer and engineering teams to deliver production-ready AI deployments.
+
+      - company: Third Point
+        position: Quantitative Investment Analyst
+        location: New York, NY
+        start_date: 2026-06
+        end_date: 2026-08
+        highlights:
+          - Covered software and industrial companies, conducting research and participating in expert network calls.
+          - Developed an agentic investment framework to identify short opportunities by replicating the firm's research process.
+          - Built a quantitative machine learning framework to assess accounting quality and financial statement integrity, combining NLP-based earnings-call sentiment with alternative data signals.
+          - Centralized data collection and research inputs, streamlining analyst workflows and improving research efficiency.
+          - Helped Dan Loeb evaluate startup investments.
+
+      - company: Anima AI + Science Lab, Caltech
         position: Researcher
         location: Pasadena, CA
-        start_date: 2025-01
+        start_date: 2026-01
         end_date: Present
-        summary: >
-          Joined the Mayo Lab at Caltech, led by Steve Mayo — distinguished scientist, company founder, and member of Merck's board — collaborating with a team of researchers on cutting-edge projects. Work focuses on improving the effectiveness of mRNA vaccines through the application of directed evolution and machine learning.
+        highlights:
+          - Conduct wet lab experiments focused on biomedical systems and device development, contributing to experimental validation of catheter-based technologies.
+          - Develop computational models and simulations of particle flow dynamics to analyze fluid behavior within catheter systems.
+          - Design and optimize catheter geometries using simulation-driven approaches to improve performance and efficiency.
 
-      - company: Edge City
-        position: Fellow
-        location: Chiang Mai, Thailand
-        start_date: 2024-09
-        end_date: 2024-10
-        summary: >
-          Selected as a Fellow at Edge City in Chiang Mai, Thailand, for a month-long advanced AI workshop, engaging with top industry experts and thought leaders in artificial intelligence. Highlights included exclusive 1-on-1 mentoring sessions with figures such as Vitalik Buterin and Kathy Tie, offering insight into emerging innovations, strategic thinking, and the future direction of AI. Secured funding during the fellowship to support future research initiatives.
+      - company: Engine No. 1
+        position: Investment Analyst
+        location: San Francisco, CA
+        start_date: 2025-10
+        end_date: 2025-12
+        highlights:
+          - Evaluated the AI power stack for hyperscale compute — generation, interconnection, transformers, and 24/7 carbon-free energy — translating grid constraints into $/GPU-hr economics.
+          - Partnered with experts from Chevron, GE, and Crusoe to diligence clean-power options (gas + CCS, flare-to-compute, geothermal, uprates) and structure PPAs and hedges for large data-center loads.
+          - Built investment models and memos quantifying nodal-price risk, capacity/ancillary revenues, and project IRRs.
+          - Developed a customer-facing tool comparing power-stack configurations for hyperscalers and AI infrastructure.
+          - Created an AI-driven site-selection engine for data centers, optimized for gas pipelines, renewables, grid constraints, and land costs.
 
-      - company: Charpentier Lab, Max Planck Institute for Infection Biology
-        position: Research Intern
-        location: Berlin, Germany
+      - company: Nucleate
+        position: VC Intern
+        location: Los Angeles, CA
         start_date: 2024-06
         end_date: 2024-10
-        summary: >
-          Research Intern under Nobel Prize laureate Emmanuelle Charpentier, co-discoverer of CRISPR and co-founder of CRISPR Therapeutics, at the Max Planck Institute for Infection Biology. Work focused on CRISPR, proteases, glycopeptide sequencing, and mass spectrometry. Developed a novel methodology for high-throughput screening of multiple samples in mass spectrometry using Tandem Mass Tag (TMT) labeling, improving both efficiency and data accuracy. Gained hands-on experience with advanced proteomics sequencing software; the work culminated in a research paper currently in preparation.
         highlights:
-          - Developed a TMT-labeling-based high-throughput mass spectrometry screening method for protein identification and quantification.
+          - Developed a network of biotech professionals and life sciences experts.
+          - Coordinated with biotech companies, helping them deliver impactful presentations at conferences.
+          - Collaborated with PhD students from USC, UCLA, and Caltech on research and development projects.
+          - Assisted in organizing two conferences and engaged over 20 sponsors to secure support.
+
+      - company: Charpentier Lab, Max Planck Institute for Infection Biology
+        position: Research Intern (mentored by Nobel laureate Emmanuelle Charpentier)
+        location: Berlin, Germany
+        start_date: 2024-08
+        end_date: 2024-10
+        highlights:
+          - Developed a high-throughput CRISPR-protease screen with TMT labeling, boosting efficiency and accuracy.
+          - Gained expertise in CRISPR, protease biology, glycopeptide sequencing, mass spectrometry, and advanced proteomics software.
+          - Used machine learning to design proteins with three-times higher predicted stability, and sifted through 50,000+ lab readings to spot hidden patterns in protein levels, boosting discovery speed by 35%.
+
+      - company: Dikic/Bhaskara Lab, Goethe University Frankfurt
+        position: Researcher
+        location: Frankfurt, Germany
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - Modeled the structure of protein complexes involved in autophagy and ubiquitination pathways using molecular dynamics simulations to study dynamic protein-protein interactions.
+          - Investigated asymmetries in the number of lipids in the membrane bilayer as an effect of protein shape.
+          - Learned to use GROMACS to analyze dynamic interactions between protein complexes, providing insight into conformational changes and binding interfaces in cellular degradation processes.
 
       - company: Oraclum Capital
         position: Hedge Fund Intern
         location: New York, NY
         start_date: 2024-04
         end_date: 2024-08
-        summary: >
-          Interned at Oraclum Capital, a niche New York hedge fund with under $100M in assets under management, gaining hands-on experience across a variety of projects. Developed a momentum-based trading strategy that achieved a 90% win rate and a 26% annual return, built on extensive data analysis leveraging traditional and alternative data sources. Scraped and processed over 10,000 SEC filings, 2,000 analyst reports, and 20 years of FOMC meeting transcripts, and managed minute-level option and stock data to refine trading models. Applied NLP to extract sentiment from Federal Reserve Chair speeches and machine learning to predict pricing trends.
         highlights:
-          - Momentum-based trading strategy — 90% win rate, 26% annual return.
-          - Processed 10,000+ SEC filings, 2,000+ analyst reports, and 20 years of FOMC transcripts.
+          - Interned at a niche hedge fund with under $100M in assets under management, gaining hands-on experience across diverse projects and developing a comprehensive skill set.
+          - Developed a momentum-based trading strategy with a 90% win rate and a 26% annual return.
+          - Scraped and processed over 10,000 SEC filings, 2,000 analyst reports, and 20 years of FOMC meeting transcripts; managed minute-level option and stock data.
+          - Used NLP to extract sentiment from Federal Reserve Chair speeches and applied machine learning techniques for pricing prediction.
 
-      - company: Dikic/Bhaskara Lab, Goethe University Frankfurt
-        position: Research Intern
-        location: Frankfurt, Germany
-        start_date: 2024-06
-        end_date: 2024-08
+    Awards:
+      - title: Tim Ryan Fellowship
+        awarder: California Institute of Technology
+        date: 2025-06
         summary: >
-          Research Intern in the Dikic/Bhaskara Lab, exploring cellular biology through computational techniques. Modeled protein complexes involved in autophagy and ubiquitination pathways using molecular dynamics simulations, analyzing dynamic protein-protein interactions to unravel the molecular mechanisms underlying these cellular processes. Investigated how protein structures influence membrane bilayer lipid asymmetry using GROMACS, studying conformational changes and binding interfaces within protein complexes. The work culminated in a co-authored paper on autophagy and ubiquitination.
+          Awarded a $40,000 fellowship (ongoing) to develop an AR/VR application aimed at improving cognitive engagement for individuals with dementia and Alzheimer's disease, with mentorship from leading venture capital firms including Fifty Years and Sequoia.
 
-      - company: Ph11, Caltech
-        position: Fellow
-        location: Pasadena, CA
-        start_date: 2022
-        end_date: 2022
+      - title: Bill Gross Entrepreneurship Competition
+        awarder: California Institute of Technology
+        date: 2025-04
         summary: >
-          Selected as one of six Caltech freshmen for Ph11, a class taught by physicist Dave Stevenson (who wrote the proposal for the Juno mission) and Rob Phillips, exploring open-ended questions in physics and biology. A recurring theme was dimensional analysis — estimating quantities such as the biomass of whale poop or the number of toilets needed for a presidential inauguration without looking anything up. Through the professors' connections, had the opportunity to speak with Nobel Prize-winning physicist and former Secretary of Energy Steve Chu about topics including atomic clocks and government loans to Tesla, Solyndra, and other green-energy companies.
+          Won the $5K top prize by pitching an AI-powered diagnostic assistant that predicts rare-disease risk from routine blood panels, delivering a working MVP and securing follow-on mentorship from Caltech venture advisors.
 
-      - company: High School Research
-        position: Researcher
-        location: ""
-        start_date: 2022-01
-        end_date: 2022-06
+      - title: Edge City Fellowship
+        awarder: Edge City
+        date: 2024-09
         summary: >
-          Conducted in-depth research on the characteristics of a symbiotic culture of bacteria and yeast, investigating the feasibility of using bacterial cultures as a cost-effective alternative for water decontamination. Collaborated with peers to co-author a research paper detailing the findings, gaining hands-on experience in experimental biology, data analysis, and scientific writing.
+          Won a month-long AI fellowship in Chiang Mai, Thailand — an advanced workshop with $2K in research funding and 1-on-1 mentoring from leaders including Vitalik Buterin and Kathy Tie. Secured additional funding to advance AI research initiatives.
+
+      - title: Ph11 Fellowship
+        awarder: California Institute of Technology
+        date: 2024-01
+        summary: >
+          Selected as one of five fellows after solving two challenging quantitative problems, building a foundation in fundamental research principles and dimensional analysis. Awarded a $10,000 research grant for independent summer research.
+
+      - title: IPhO Invitation
+        awarder: Gimnazija Andrije Mohorovičića
+        date: 2023
+        summary: Ranked 2nd in the national physics competition; invited to the International Physics Olympiad (IPhO).
+
+      - title: National Champion Swimmer
+        awarder: Croatian Swimming Federation Championships
+        date: 2023
+        summary: 1st place, 100m backstroke (national title); 3rd place, 50m backstroke.
+
+    Projects:
+      - name: High-Speed Crypto Trading Platform
+        summary: "Rust, C++, Python, Solana, Ethereum"
+        highlights:
+          - Engineered a Rust order-book core with sub-50us latency, handling 120K+ messages per second on commodity hardware.
+          - Ran arbitrage and market-making bots on Solana and Ethereum DEXs, delivering 8-12% monthly returns (Sharpe 1.7).
+          - Hedged exposure with delta-neutral futures on Binance, OKX, and Bybit, unifying on-chain and CEX risk in a single manager.
+        start_date: 2022-09
+        end_date: 2023-07
+
+      - name: Autonomous Delivery Robot with Hot-Swap Battery Dock
+        summary: "Raspberry Pi, C++, OpenCV"
+        highlights:
+          - Built an autonomous rover and servo-driven dock that swaps batteries in under 30 seconds, enabling round-the-clock runs.
+          - Modeled and fabricated the chassis and dock in Fusion 360; parts produced via 3D printing and laser cutting.
+          - Wrote C++ motor control on Arduino and vision-based navigation on Raspberry Pi with OpenCV; a serial protocol coordinates the swap cycle.
+        start_date: 2025-01
+        end_date: 2025-03
+
+      - name: "Mission Concept: Robotic Lander to Enceladus"
+        summary: "MATLAB, STK"
+        highlights:
+          - Led mission operations for a full Caltech Ae105b design study of a lander to Saturn's moon, Enceladus.
+          - Computed a gravity-assist trajectory and delta-V budget in MATLAB/STK, confirming launch-window feasibility.
+          - Authored the surface operations schedule covering power, communications, and science, synced with payload and bus teams for design review.
+        start_date: 2025-01
+        end_date: 2025-03
 
     Skills:
-      - name: Machine Learning & AI
-        keywords: "Python, PyTorch, TensorFlow, scikit-learn, Keras, NLP"
+      - name: Quantitative & Technical
+        keywords: "Python (pandas, PyTorch, scikit-learn), JavaScript, SQL, C, Bloomberg Terminal, Tableau, VBA, Microsoft Office"
 
-      - name: Computational Biology
-        keywords: "Molecular dynamics (GROMACS), mass spectrometry & proteomics, CRISPR, directed evolution"
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Croatian
+        summary: Fluent
+      - name: Serbian
+        summary: Fluent
+      - name: Bosnian
+        summary: Fluent
 
-      - name: Software Engineering
-        keywords: "JavaScript, TypeScript, React, Next.js, Django, Solidity, C, C++"
+    Interests:
+      - name: Car racing
+      - name: Kite surfing
+      - name: Cryptocurrency
+      - name: Skiing
+      - name: Water polo

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science & Biology, Caltech
+subtitle: Computer Science, Caltech
 
 profile:
   align: right
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Computer Science and Biology student at the California Institute of Technology, working at the intersection of machine learning and computational biology. I love building things, especially with AI — right now I'm building a VC-backed agentic system to simplify payments. Outside of that, I'm also a lifelong muscle car enthusiast.
+I'm a Computer Science student (Aerospace minor) at the California Institute of Technology, working across quantitative finance, AI, and computational biology. I love building things, especially with AI. Outside of that, I'm also a lifelong muscle car enthusiast.
 
-Alongside my coursework, I spend my summers in labs and internships rather than in the classroom. During the academic year, I do research at Caltech; over breaks, I've worked across finance, biotech, and AI — developing a momentum-based trading strategy at a New York hedge fund, engineering high-throughput mass spectrometry methods at the Max Planck Institute for Infection Biology under Nobel laureate Emmanuelle Charpentier, and running molecular dynamics simulations of autophagy-related protein complexes at Goethe University Frankfurt. The [CV page](/cv/) and [projects page](/projects/) have the full rundown.
+Alongside my coursework, I spend my summers in labs and internships rather than in the classroom — from investment analyst roles at Third Point and Engine No. 1, to research at Caltech's Anima AI + Science Lab, to earlier work engineering mass spectrometry methods at the Max Planck Institute for Infection Biology under Nobel laureate Emmanuelle Charpentier and running molecular dynamics simulations at Goethe University Frankfurt. The [CV page](/cv/) and [projects page](/projects/) have the full rundown.
 
 I'm always looking for interesting problems to work on and people to work with, so feel free to reach out.

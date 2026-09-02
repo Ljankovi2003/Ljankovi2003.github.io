@@ -9,10 +9,10 @@ last_name: Jankovic
 contact_note: >
   Email and LinkedIn are the fastest ways to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Leo Jankovic, a Computer Science & Biology student at Caltech working across machine learning, computational biology, and finance.
+  Personal website of Leo Jankovic, a Computer Science student at Caltech (Aerospace minor) working across quantitative finance, AI, and computational biology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: leo jankovic, caltech, computer science, biology, machine learning, computational biology # add your own keywords or leave empty
+keywords: leo jankovic, caltech, computer science, finance, machine learning, computational biology # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
