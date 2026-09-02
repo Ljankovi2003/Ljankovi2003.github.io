@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Ljankovi2003.github.io/sitemap.xml
+Sitemap: https://ljankovi2003.github.io/sitemap.xml
