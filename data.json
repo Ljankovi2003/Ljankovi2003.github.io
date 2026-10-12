@@ -1,0 +1,107 @@
+{
+  "name": "Leo Jankovic",
+  "tagline": "Computer Science, Caltech",
+  "siteUrl": "https://ljankovi2003.github.io",
+  "email": "leovjan@gmail.com",
+  "github": "https://github.com/Ljankovi2003",
+  "linkedin": "https://www.linkedin.com/in/leo-jankovic-8375b1222",
+  "cv": "https://drive.google.com/file/d/19SE38upGCxnbnZMVsl8GgdvJejdb5Gge/view?usp=sharing",
+  "about": [
+    "I study Computer Science at Caltech, with a minor in Aerospace, and split my time between quant finance, building with AI, and computational biology. Outside of that I'm into muscle cars, I've spent time traveling around China and Malaysia, and I once did a seven-day meditation retreat at a monk's temple.",
+    "Alongside my coursework, I spend my summers in labs and internships rather than in the classroom: from investment analyst roles at Third Point and Engine No. 1, to research at Caltech's Anima AI + Science Lab, to earlier work engineering mass spectrometry methods at the Max Planck Institute for Infection Biology under Nobel laureate Emmanuelle Charpentier and running molecular dynamics simulations at Goethe University Frankfurt.",
+    "I'm always looking for interesting problems to work on and people to work with, so feel free to reach out."
+  ],
+  "news": [
+    { "date": "2027-04", "text": "Accepted an offer to join Mercuria as an Investment Analyst in Geneva, Switzerland, starting April 2027." },
+    { "date": "2026-08", "text": "Joined AllyAI as a Forward Deployed Engineer, deploying customized AI solutions for enterprise customers." },
+    { "date": "2026-06", "text": "Wrapped up a stint as a Quantitative Investment Analyst at Third Point." },
+    { "date": "2026-01", "text": "Joined Caltech's Anima AI + Science Lab as a researcher, working on computational modeling for catheter-based biomedical devices." },
+    { "date": "2025-10", "text": "Joined Engine No. 1 as an Investment Analyst." },
+    { "date": "2025-06", "text": "Awarded the Tim Ryan Fellowship ($40,000) to build an AR/VR application for people with dementia and Alzheimer's disease." }
+  ],
+  "experience": [
+    { "org": "Mercuria", "role": "Investment Analyst", "place": "Geneva, Switzerland", "dates": "Starting Apr 2027", "points": [] },
+    { "org": "AllyAI", "role": "Forward Deployed Engineer", "place": "New York, NY", "dates": "Aug 2026 – Present", "points": [
+      "Partnered with enterprise customers generating over $1B in annual revenue to deploy customized AI solutions.",
+      "Built and optimized AI workflows to automate business processes and improve operational efficiency.",
+      "Collaborated with customer and engineering teams to deliver production-ready AI deployments."
+    ] },
+    { "org": "Third Point", "role": "Quantitative Investment Analyst", "place": "New York, NY", "dates": "Jun 2026 – Aug 2026", "points": [
+      "Covered software and industrial companies, conducting research and participating in expert network calls.",
+      "Developed an agentic investment framework to identify short opportunities by replicating the firm's research process.",
+      "Built a quantitative machine learning framework to assess accounting quality and financial statement integrity, combining NLP-based earnings-call sentiment with alternative data signals.",
+      "Centralized data collection and research inputs, streamlining analyst workflows and improving research efficiency.",
+      "Helped Dan Loeb evaluate startup investments."
+    ] },
+    { "org": "Anima AI + Science Lab, Caltech", "role": "Researcher", "place": "Pasadena, CA", "dates": "Jan 2026 – Present", "points": [
+      "Conduct wet lab experiments focused on biomedical systems and device development, contributing to experimental validation of catheter-based technologies.",
+      "Develop computational models and simulations of particle flow dynamics to analyze fluid behavior within catheter systems.",
+      "Design and optimize catheter geometries using simulation-driven approaches to improve performance and efficiency."
+    ] },
+    { "org": "Engine No. 1", "role": "Investment Analyst", "place": "San Francisco, CA", "dates": "Oct 2025 – Dec 2025", "points": [
+      "Evaluated the AI power stack for hyperscale compute (generation, interconnection, transformers, and 24/7 carbon-free energy), translating grid constraints into $/GPU-hr economics.",
+      "Partnered with experts from Chevron, GE, and Crusoe to diligence clean-power options (gas + CCS, flare-to-compute, geothermal, uprates) and structure PPAs and hedges for large data-center loads.",
+      "Built investment models and memos quantifying nodal-price risk, capacity/ancillary revenues, and project IRRs.",
+      "Developed a customer-facing tool comparing power-stack configurations for hyperscalers and AI infrastructure.",
+      "Created an AI-driven site-selection engine for data centers, optimized for gas pipelines, renewables, grid constraints, and land costs."
+    ] },
+    { "org": "Nucleate", "role": "VC Intern", "place": "Los Angeles, CA", "dates": "Jun 2024 – Oct 2024", "points": [
+      "Developed a network of biotech professionals and life sciences experts.",
+      "Coordinated with biotech companies, helping them deliver impactful presentations at conferences.",
+      "Collaborated with PhD students from USC, UCLA, and Caltech on research and development projects.",
+      "Assisted in organizing two conferences and engaged over 20 sponsors to secure support."
+    ] },
+    { "org": "Charpentier Lab, Max Planck Institute for Infection Biology", "role": "Research Intern (mentored by Nobel laureate Emmanuelle Charpentier)", "place": "Berlin, Germany", "dates": "Aug 2024 – Oct 2024", "points": [
+      "Developed a high-throughput CRISPR-protease screen with TMT labeling, boosting efficiency and accuracy.",
+      "Gained expertise in CRISPR, protease biology, glycopeptide sequencing, mass spectrometry, and advanced proteomics software.",
+      "Used machine learning to design proteins with three-times higher predicted stability, and sifted through 50,000+ lab readings to spot hidden patterns in protein levels, boosting discovery speed by 35%."
+    ] },
+    { "org": "Dikic/Bhaskara Lab, Goethe University Frankfurt", "role": "Researcher", "place": "Frankfurt, Germany", "dates": "Jun 2024 – Aug 2024", "points": [
+      "Modeled the structure of protein complexes involved in autophagy and ubiquitination pathways using molecular dynamics simulations to study dynamic protein-protein interactions.",
+      "Investigated asymmetries in the number of lipids in the membrane bilayer as an effect of protein shape.",
+      "Learned to use GROMACS to analyze dynamic interactions between protein complexes, providing insight into conformational changes and binding interfaces in cellular degradation processes."
+    ] },
+    { "org": "Oraclum Capital", "role": "Hedge Fund Intern", "place": "New York, NY", "dates": "Apr 2024 – Aug 2024", "points": [
+      "Interned at a niche hedge fund with under $100M in assets under management, gaining hands-on experience across diverse projects.",
+      "Developed a momentum-based trading strategy with a 90% win rate and a 26% annual return.",
+      "Scraped and processed over 10,000 SEC filings, 2,000 analyst reports, and 20 years of FOMC meeting transcripts; managed minute-level option and stock data.",
+      "Used NLP to extract sentiment from Federal Reserve Chair speeches and applied machine learning techniques for pricing prediction."
+    ] }
+  ],
+  "education": [
+    { "org": "California Institute of Technology", "url": "https://www.caltech.edu/", "role": "B.S. Computer Science, Minor in Aerospace", "place": "Pasadena, CA", "dates": "2023 – 2027", "points": [
+      "GPA 3.9/4.0.",
+      "Coursework: Introduction to Economics, Introduction to Finance, Introduction to Machine Learning, Hedge Funds, Investments, Advanced Topics in Machine Learning.",
+      "Swim Team, Water Polo, Caltech Quant Club, Entrepreneurship Club, Student Investment Fund."
+    ] },
+    { "org": "Gimnazija Andrije Mohorovičića", "role": "High School Diploma, General studies", "place": "Rijeka, Croatia", "dates": "2018 – 2022", "points": ["GPA 4.9/5.0."] }
+  ],
+  "skills": "Python (pandas, PyTorch, scikit-learn), JavaScript, SQL, C, Bloomberg Terminal, Tableau, VBA, Microsoft Office",
+  "languages": "English, Croatian, Serbian, Bosnian (all fluent)",
+  "interests": "Car racing, kite surfing, cryptocurrency, skiing, water polo",
+  "projects": [
+    { "name": "Nevera", "stack": "Next.js, React, Node.js, TypeScript, Python, Django", "text": "A web app providing AI-driven earthquake prediction and early-warning alerts. Machine learning models built with Python and PyTorch forecast seismic activity and notify users in real time." },
+    { "name": "Connect", "stack": "Python, TensorFlow, PyTorch, scikit-learn, TypeScript", "text": "A non-profit initiative that redirects surplus food from hotels and restaurants to people experiencing homelessness, pairing a mobile app with machine learning models that match donations with need." },
+    { "name": "MLNGT", "stack": "Python, Django", "text": "Machine Learning Natural Gas Trading: an automated system that predicts natural gas prices from a range of contributing factors. Continuously refined, with a yearly return of 22.32%." },
+    { "name": "Front-Running Bot", "stack": "Python, Django", "text": "A program on the Binance Smart Chain that identifies large purchase orders for small-cap cryptocurrencies, with a strategy of buying those tokens ahead of the detected orders' execution." },
+    { "name": "BNLP", "stack": "Python, Django", "text": "Biotech Natural Language Processing: analyzes daily biotech news to predict its potential impact on the stock prices of related companies." },
+    { "name": "ERC721-RA", "stack": "Solidity", "text": "A Solidity smart contract for the Code Rebels NFT collection. It verifies Twitter accounts before minting, limits each wallet to a single mint, and includes a built-in marketplace for bids and asks." },
+    { "name": "High-Speed Crypto Trading Platform", "stack": "Rust, C++, Python, Solana, Ethereum", "text": "A Rust order-book core with sub-50us latency handling 120K+ messages per second, plus arbitrage and market-making bots on Solana and Ethereum DEXs (8-12% monthly returns, Sharpe 1.7), hedged with delta-neutral futures on Binance, OKX, and Bybit." },
+    { "name": "Autonomous Delivery Robot with Hot-Swap Battery Dock", "stack": "Raspberry Pi, C++, OpenCV", "text": "An autonomous rover and servo-driven dock that swaps batteries in under 30 seconds. Chassis and dock modeled in Fusion 360; C++ motor control on Arduino and vision-based navigation on Raspberry Pi." },
+    { "name": "Mission Concept: Robotic Lander to Enceladus", "stack": "MATLAB, STK", "text": "Led mission operations for a Caltech Ae105b design study of a lander to Saturn's moon Enceladus: gravity-assist trajectory, delta-V budget, and the surface operations schedule." }
+  ],
+  "awards": [
+    { "title": "Tim Ryan Fellowship", "by": "Caltech", "date": "2025", "text": "$40,000 fellowship (ongoing) to develop an AR/VR application aimed at improving cognitive engagement for individuals with dementia and Alzheimer's disease, with mentorship from leading venture capital firms including Fifty Years and Sequoia." },
+    { "title": "Bill Gross Entrepreneurship Competition", "by": "Caltech", "date": "2025", "text": "Won the $5K top prize by pitching an AI-powered diagnostic assistant that predicts rare-disease risk from routine blood panels, delivering a working MVP and securing follow-on mentorship from Caltech venture advisors." },
+    { "title": "Edge City Fellowship", "by": "Edge City", "date": "2024", "text": "Won a month-long AI fellowship in Chiang Mai, Thailand: an advanced workshop with $2K in research funding and 1-on-1 mentoring from leaders including Vitalik Buterin and Kathy Tie." },
+    { "title": "Ph11 Fellowship", "by": "Caltech", "date": "2024", "text": "Selected as one of five fellows after solving two challenging quantitative problems. Awarded a $10,000 research grant for independent summer research." },
+    { "title": "IPhO Invitation", "by": "Gimnazija Andrije Mohorovičića", "date": "2023", "text": "Ranked 2nd in the national physics competition; invited to the International Physics Olympiad." },
+    { "title": "National Champion Swimmer", "by": "Croatian Swimming Federation", "date": "2023", "text": "1st place, 100m backstroke (national title); 3rd place, 50m backstroke." }
+  ],
+  "reading": [
+    { "title": "Dune", "author": "Frank Herbert", "year": 1965, "text": "An epic of interstellar intrigue and ecological foresight, set in a meticulously crafted sci-fi universe." },
+    { "title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "year": 1866, "text": "The tortured psyche of its protagonist against a bleak St. Petersburg: guilt, redemption, and moral complexity." },
+    { "title": "Don Quixote", "author": "Miguel de Cervantes", "year": 1605, "text": "A timeless satire of chivalric traditions, setting idealistic quests against the harsh realities of 17th-century Spain." },
+    { "title": "Hamlet", "author": "William Shakespeare", "year": 1600, "text": "Revenge, madness, and the human condition, with tragic intensity and philosophical depth." }
+  ]
+}
