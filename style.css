@@ -35,9 +35,8 @@ a:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
   display: flex;
   flex-direction: row-reverse;
   gap: 72px;
-  max-width: 880px;
-  margin: 0 auto;
-  padding: 64px 24px 96px;
+  margin: 0;
+  padding: 64px 48px 96px;
 }
 
 .side { flex: 0 0 150px; position: sticky; top: 64px; align-self: flex-start; font-size: 15px; }
