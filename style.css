@@ -33,6 +33,7 @@ a:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
 
 .wrap {
   display: flex;
+  flex-direction: row-reverse;
   gap: 72px;
   max-width: 880px;
   margin: 0 auto;
