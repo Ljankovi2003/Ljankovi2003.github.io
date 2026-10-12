@@ -11,6 +11,11 @@
     "Alongside my coursework, I spend my summers in labs and internships rather than in the classroom: from investment analyst roles at Third Point and Engine No. 1, to research at Caltech's Anima AI + Science Lab, to earlier work engineering mass spectrometry methods at the Max Planck Institute for Infection Biology under Nobel laureate Emmanuelle Charpentier and running molecular dynamics simulations at Goethe University Frankfurt.",
     "I'm always looking for interesting problems to work on and people to work with, so feel free to reach out."
   ],
+  "feats": [
+    "Ran a full marathon with no preparation.",
+    "Did 1,000 pull-ups in 2 hours.",
+    "Did 50 pull-ups in one go."
+  ],
   "news": [
     { "date": "2027-04", "text": "Accepted an offer to join Mercuria as an Investment Analyst in Geneva, Switzerland, starting April 2027." },
     { "date": "2026-08", "text": "Joined AllyAI as a Forward Deployed Engineer, deploying customized AI solutions for enterprise customers." },

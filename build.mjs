@@ -74,6 +74,11 @@ const body = {
 <p class="sub">${esc(d.tagline)}</p>
 ${d.about.map(p => `<p>${esc(p)}</p>`).join('\n')}
 <p>${ext(d.cv, 'CV')} · ${ext(d.github, 'GitHub')} · ${ext(d.linkedin, 'LinkedIn')} · <a href="mailto:${esc(d.email)}">${esc(d.email)}</a></p>
+<h2>Feats</h2>
+<ul class="feats">
+${d.feats.map(f => `<li>${esc(f)}</li>`).join('
+')}
+</ul>
 <h2>News</h2>
 <dl class="news">
 ${d.news.map(n => `<dt>${esc(n.date)}</dt><dd>${esc(n.text)}</dd>`).join('\n')}
