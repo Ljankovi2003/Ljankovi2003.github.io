@@ -43,7 +43,6 @@ ${robots ? `<meta name="robots" content="${robots}">\n` : ''}${canonical ? `<lin
 <a class="skip" href="#main">Skip to content</a>
 <div class="wrap">
 <header class="side">
-<p class="name"><a href="index.html">${esc(d.name)}</a></p>
 <nav aria-label="Primary"><ul>${nav}</ul></nav>
 <nav aria-label="Elsewhere" class="ext"><ul>
 <li>${ext(d.github, 'GitHub')}</li>
@@ -70,8 +69,7 @@ ${list(e.points)}
 </article>`;
 
 const body = {
-  'index.html': () => `<h1>${esc(d.name)}</h1>
-<p class="sub">${esc(d.tagline)}</p>
+  'index.html': () => `<h1 class="sr">${esc(d.name)}</h1>
 ${d.about.map(p => `<p>${esc(p)}</p>`).join('\n')}
 <p>${ext(d.cv, 'CV')} · ${ext(d.github, 'GitHub')} · ${ext(d.linkedin, 'LinkedIn')} · <a href="mailto:${esc(d.email)}">${esc(d.email)}</a></p>
 <h2>Feats</h2>
